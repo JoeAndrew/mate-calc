@@ -39,7 +39,7 @@ msgstr "="
 #: src/buttons-advanced.ui:288 src/buttons-basic.ui:262
 #: src/buttons-financial.ui:2149 src/buttons-programming.ui:2066
 msgid "Clear"
-msgstr "Leürítés"
+msgstr "Törlés"
 
 #. Accessible name for the scientific exponent button
 #: src/buttons-advanced.ui:321
